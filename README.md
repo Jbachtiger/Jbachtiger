@@ -25,7 +25,7 @@ In my spare time I enjoy seeing friends and family, playing video games as well 
 - Javascript
 - Python
 
-## I some experience in ...
+## I have some experience in ...
 
 - HTML
 - CSS
