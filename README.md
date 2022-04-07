@@ -14,7 +14,7 @@ I originally trained as a digital marketer, however, decided to take the plunge 
 
 👀 I want to be ... a programmer!
 
-After much reflection and exploration outside my comfort zone, I decided to finally go for it in October 2021 and start my journey towards becoming a Full Stack Software Developer. I have also been interested in coding and the tech industry, having dabbled in HTML and CSS in my various marketing roles previously which was the aspect of the job I enjoyed the most. I hope to broaden my knowledge and skill set, widening my understanding of programming languages.  
+After much reflection and exploration outside my comfort zone, I decided to finally go for it in November 2021 and start my journey towards becoming a Full Stack Software Developer. I have also been interested in coding and the tech industry, having dabbled in HTML and CSS in my various marketing roles previously which was the aspect of the job I enjoyed the most. I hope to broaden my knowledge and skill set, widening my understanding of programming languages.  
 
 A little bit more about me...
 
